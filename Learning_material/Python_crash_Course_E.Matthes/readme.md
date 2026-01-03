@@ -8,17 +8,13 @@
 
  This is an active learning space, and I will continue updating it as I complete new chapters and explore additional concepts.
 
-
-# [View the book on the publisher’s website](https://nostarch.com/python-crash-course-3rd-edition)
-
-
-
 # Reference
 
 This repository follows the exercises and examples from  
 Python Crash Course (3rd Edition) by Eric Matthes\*\*  
 Publisher: No Starch Press  
-[Official book page](https://nostarch.com/python-crash-course-3rd-edition)
+[View the book on the publisher’s website](https://nostarch.com/python-crash-course-3rd-edition)
+
 
 
 
