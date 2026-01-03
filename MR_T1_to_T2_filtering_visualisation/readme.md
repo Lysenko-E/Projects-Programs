@@ -5,10 +5,14 @@ The script loads a local MRI image, normalizes it, applies a gamma based contras
 This was a project made out of curiosity, not for clinical use. 
 
 \# Requirements
+
 \- OpenCV (cv2): image loading, normalization, labeling, display, saving
+
 \- NumPy: numerical operations and intensity transformations
+
 No medical imaging libraries (SimpleITK, NiBabel, etc.) are required for this 2D demonstration.
 
+! Please change the path inside the code to own location
 ---
 Install the required Python libraries using the following:
 ```bash
@@ -87,6 +91,7 @@ The output is a visual approximation only, created using simple image processing
 The example T1‑weighted MRI image used in this project is based on a sagittal T1‑weighted scan showing normal midline brain structures.  
 Original image and description courtesy of the MSD Manual Professional Edition and Hakan Ilaslan, MD:  
 https://www.msdmanuals.com/professional/multimedia/image/t1-weighted-mri
+
 
 
 
