@@ -1,8 +1,8 @@
 \# T1 → T2 Like MRI Contrast Simulation (Educational Only)
+---
 This project demonstrates a simple, non clinical method for generating a \*\*T2 like contrast\*\* from a T1 weighted MRI image using basic image processing operations in Python. The goal is purely \*\*visualization and experimentation\*\*, not diagnostic accuracy or medical use.
 The script loads a local MRI image, normalizes it, applies a gamma based contrast transformation to mimic T2 like characteristics, labels both images, displays them side by side in a comparison window, and saves the simulated output as `t2\_simulated.png`.
 This was a project made out of curiosity, not for clinical use. 
----
 
 \# Requirements
 \- OpenCV (cv2): image loading, normalization, labeling, display, saving
@@ -67,6 +67,7 @@ The output is a visual approximation only, created using simple image processing
 The example T1‑weighted MRI image used in this project is based on a sagittal T1‑weighted scan showing normal midline brain structures.  
 Original image and description courtesy of the MSD Manual Professional Edition and Hakan Ilaslan, MD:  
 https://www.msdmanuals.com/professional/multimedia/image/t1-weighted-mri
+
 
 
 
