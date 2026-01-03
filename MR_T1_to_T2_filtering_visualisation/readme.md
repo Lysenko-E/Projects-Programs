@@ -25,9 +25,8 @@ No medical imaging libraries (SimpleITK, NiBabel, etc.) are required for this 2D
 Install the required Python libraries using the following:
 
 ```bash
-
 pip install opencv-python numpy
-
+```
 
 
 ---
@@ -119,6 +118,7 @@ This project is strictly for educational and visualization purposes.
 \- It must not be used for clinical decision making
 
 The output is a visual approximation only, created using simple image processing filters.
+
 
 
 
