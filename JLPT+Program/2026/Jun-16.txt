@@ -1,0 +1,70 @@
+幽玄 | mysterious profundity | ゆうげん | 幽玄な雰囲気が漂う。 | A mysterious elegance fills the air. | 幽玄の美 |  | 
+老朽化 | aging, deterioration | ろうきゅうか | 建物が老朽化している。 | The building is deteriorating. | 老朽化対策 |  | 
+経営難 | management difficulties | けいえいなん | 店は経営難に陥った。 | The shop fell into financial trouble. | 経営難に直面 |  | 
+自然景観 | natural scenery | しぜんけいかん | 自然景観を守る。 | Protect natural scenery. | 景観保護 |  | 
+独自 | unique, original | どくじ | 独自の方法を採用する。 | Use a unique method. | 独自性 |  | 
+発信 | transmission, sending out | はっしん | 情報を発信する。 | Send out information. | 情報発信 |  | 
+小規模 | small‑scale | しょうきぼ | 小規模な会社。 | A small‑scale company. | 小規模事業 |  | 
+高騰 | sharp rise (price) | こうとう | 物価が高騰している。 | Prices are soaring. | 価格高騰 |  | 
+整備 | maintenance, development | せいび | 道路を整備する。 | Maintain the roads. | インフラ整備 |  | 
+環境整備 | environmental improvement | かんきょうせいび | 職場の環境整備を進める。 | Improve the workplace environment. | 環境整備計画 |  | 
+怠る | neglect | おこたる | 注意を怠るな。 | Don’t neglect caution. | 義務を怠る |  | 
+著しく | remarkably | いちじるしく | 成績が著しく向上した。 | Scores improved remarkably. | 著しく増加 |  | 
+増し | increase | まし | 寒さが増してきた。 | The cold is increasing. | ～が増す |  | 
+客観的 | objective | きゃっかんてき | 客観的に判断する。 | Judge objectively. | 客観的視点 |  | 
+見つめる | gaze, look closely | みつめる | 自分を見つめ直す。 | Re‑examine yourself. | じっと見つめる |  | 
+森林伐採 | deforestation | しんりんばっさい | 森林伐採が進む。 | Deforestation is advancing. | 過度な森林伐採 |  | 
+土壌 | soil | どじょう | 土壌が劣化している。 | The soil is deteriorating. | 土壌汚染 |  | 
+劣化 | degradation | れっか | 品質が劣化した。 | The quality degraded. | 劣化現象 |  | 
+抜本的 | drastic, fundamental | ばっぽんてき | 抜本的な改革が必要だ。 | Fundamental reform is needed. | 抜本的対策 |  | 
+雨水 | rainwater | あまみず | 雨水を再利用する。 | Reuse rainwater. | 雨水タンク |  | 
+警鐘 | warning bell | けいしょう | 専門家が警鐘を鳴らす。 | Experts sound the alarm. | 警鐘を鳴らす |  | 
+堪能 | proficient, skilled | たんのう | 彼は英語が堪能だ。 | He is proficient in English. | 語学堪能 |  | 
+滞納 | non‑payment | たいのう | 家賃を滞納した。 | I failed to pay rent. | 税金滞納 |  | 
+上映 | screening | じょうえい | 映画が上映される。 | The movie is being screened. | 上映時間 |  | 
+趣 | charm, taste | おもむき | 古い町に趣がある。 | The old town has charm. | 風情・趣のある |  | 
+老舗 | long‑established shop | しにせ | 老舗の和菓子店。 | A long‑established sweets shop. | 老舗企業 |  | 
+代々引き継ぎ | passed down generations | だいだいひきつぎ | 代々引き継がれた技。 | Skills passed down generations. | 家業を引き継ぐ |  | 
+唯一人 | the only person | ゆいいつにん | 彼は唯一人の後継者だ。 | He is the sole successor. | 唯一の存在 |  | 
+相互 | mutual | そうご | 相互理解が必要だ。 | Mutual understanding is needed. | 相互作用 |  | 
+安易に | easily, carelessly | あんいに | 安易に考えるな。 | Don’t think about it lightly. | 安易な判断 |  | 
+敏感 | sensitive | びんかん | 音に敏感だ。 | Sensitive to sound. | 敏感肌 |  | 
+騒音 | noise | そうおん | 騒音がひどい。 | The noise is terrible. | 騒音問題 |  | 
+衣装 | costume | いしょう | 舞台の衣装を準備する。 | Prepare stage costumes. | 衣装合わせ |  | 
+樹木 | trees | じゅもく | 樹木が生い茂る。 | Trees grow thickly. | 樹木伐採 |  | 
+生えている | growing | はえている | 草が生えている。 | Grass is growing. | 毛が生える |  | 
+首相 | prime minister | しゅしょう | 首相が会見した。 | The PM held a press conference. | 元首相 |  | 
+起伏 | undulation, ups/downs | きふく | 起伏の激しい地形。 | Terrain with steep ups and downs. | 感情の起伏 |  | 
+廃れる | go out of use | すたれる | 流行が廃れた。 | The trend died out. | 廃れた文化 |  | 
+免れる | escape, avoid | まぬがれる | 事故を免れた。 | Escaped the accident. | 責任を免れる |  | 
+敗れる | be defeated | やぶれる | 試合で敗れた。 | Lost the match. | 完敗 |  | 
+紛れる | get mixed in | まぎれる | 人混みに紛れた。 | Got lost in the crowd. | 気が紛れる | 紛れる（まぎれる） means to become mixed in, to blend into, to be lost among, or to be distracted from something depending on the context. ⏎  ⏎ The core idea is: ⏎  ⏎ Something becomes difficult to distinguish because it mixes with something else. ⏎  ⏎ 1. To blend in / become mixed in ⏎  ⏎ The most common meaning. ⏎  ⏎ 人混みに紛れる。 ⏎ → To blend into the crowd. ⏎ 夜の闇に紛れる。 ⏎ → To disappear into the darkness. ⏎ 他の書類に紛れてしまった。 ⏎ → It got mixed in with the other documents. ⏎ 2. To be distracted / have one's mind taken off something ⏎ 痛みが仕事をしている間は紛れた。 ⏎ → Working took my mind off the pain. ⏎ 悲しみも時間がたてば少し紛れる。 ⏎ → With time, the sadness eases a little. ⏎  ⏎ A common expression is: ⏎  ⏎ 気が紛れる ⏎ → To be distracted; to take one's mind off something. ⏎  ⏎ Examples: ⏎  ⏎ 散歩すると気が紛れる。 ⏎ → Going for a walk helps take my mind off things. ⏎ 映画を見て気を紛らわせた. ⏎ → I watched a movie to distract myself. ⏎  ⏎ (Note: 紛らわせる is the transitive form: to distract someone or oneself.) ⏎  ⏎ Related words ⏎ 紛れる (intransitive) ⏎ → to blend in; to get mixed in ⏎ 紛らす（まぎらす） ⏎ → to divert; to distract ⏎ 紛らわせる（まぎらわせる） ⏎ → to distract; to take one's mind off ⏎ Example sentences using vocabulary you've studied ⏎ 会議のあと、人混みに紛れて駅へ向かった。 ⏎ → After the meeting, I blended into the crowd and headed to the station. ⏎ 最近は忙しくて、悩みも仕事で少し紛れている。 ⏎ → I've been so busy lately that work has taken my mind off my worries a little. ⏎ Memory tip ⏎  ⏎ Think of 紛れる as "to lose something's distinctness by mixing with something else." ⏎  ⏎ 人混みに紛れる → blend into a crowd. ⏎ 書類に紛れる → get mixed in with other papers. ⏎ 気が紛れる → your attention gets mixed away from your worries, so you're distracted. | 
+膨れる | swell | ふくれる | 風船が膨れる。 | The balloon swells. | 膨れ上がる |  | 
+こじれる | get complicated | こじれる | 話がこじれた。 | The situation got complicated. | 交渉がこじれる |  | 
+暴れる | act violently | あばれる | 子どもが暴れている。 | The child is acting out. | 暴れ回る |  | 
+気持ちが紛れる | be distracted | きもちがまぎれる | 散歩すると気持ちが紛れる。 | A walk clears my mind. | 紛れる |  | 
+うぬぼれる | be conceited | うぬぼれる | 才能にうぬぼれるな。 | Don’t be conceited about your talent. | うぬぼれ |  | 
+はばかって | be hesitant | はばかって | 人目をはばかって話す。 | Speak hesitantly due to others watching. | はばかる |  | 
+とぼけて | feign ignorance | とぼけて | 彼はとぼけて答えた。 | He answered pretending not to know. | とぼける |  | 
+ののしって | insult, verbally abuse | ののしって | 互いにののしっていた。 | They were insulting each other. | ののしる |  | 
+役目 | role, duty | やくめ | 役目を果たす。 | Fulfill one’s role. | 重要な役目 |  | 
+期待に応える | meet expectations | きたいにこたえる | 期待に応える成果。 | Results that meet expectations. | 応える |  | 
+揃える | align, gather | そろえる | 資料を揃える。 | Prepare the documents. | 足並みを揃える |  | 
+構える | take a stance, set up | かまえる | 店を構える。 | Set up a shop. | 身構える | 構える（かまえる） is a very versatile verb. Its core meaning is: ⏎  ⏎ to set up, to assume a position, to hold ready, or to prepare oneself. ⏎  ⏎ The exact translation depends on the context. ⏎  ⏎ 1. To set up / establish (a business, office, home) ⏎  ⏎ This is one of the most common uses. ⏎  ⏎ 店を構える ⏎ → To open/run a shop. ⏎ 東京に本社を構える会社 ⏎ → A company headquartered in Tokyo. ⏎ 自宅を構える ⏎ → To establish one's home. ⏎ 2. To take a stance / assume a posture ⏎ バットを構える ⏎ → To take a batting stance. ⏎ カメラを構える ⏎ → To raise/aim a camera. ⏎ 銃を構える ⏎ → To aim/hold a gun at the ready. ⏎ 3. To prepare oneself / brace oneself ⏎ 攻撃に構える ⏎ → To prepare for an attack. ⏎ 彼は質問に答えるために身を構えた。 ⏎ → He braced himself to answer the question. ⏎ 4. ～と構える ("to regard something as...", "to take the attitude that...") ⏎  ⏎ This is a grammar pattern rather than the basic verb. ⏎  ⏎ 大したことはないと構える。 ⏎ → To take the attitude that it's no big deal. ⏎ 失敗してもいいと構えていた。 ⏎ → He approached it with the attitude that failure would be okay. ⏎ 設ける vs. 構える ⏎  ⏎ Although both can sometimes be translated as "set up," they're used differently. ⏎  ⏎ 設ける | 
+節分 | Setsubun | せつぶん | 節分に豆をまく。 | Throw beans on Setsubun. | 節分行事 |  | 
+衰える | weaken | おとろえる | 体力が衰えた。 | My stamina weakened. | 衰退 |  | 
+冴える | be sharp, clear | さえる | 頭が冴えている。 | My mind is sharp. | 冴え渡る |  | 
+怯える | be frightened | おびえる | 犬が怯えている。 | The dog is scared. | 恐怖に怯える |  | 
+鍛える | train, strengthen | きたえる | 体を鍛える。 | Train the body. | 鍛錬 | 鍛える（きたえる） means to train, strengthen, discipline, or forge. It can refer to the body, mind, skills, or even materials like metal. ⏎  ⏎ The core image comes from forging metal by heating and hammering it, which is why it also carries the sense of becoming stronger through effort. ⏎  ⏎ 1. To train or strengthen the body ⏎ 体を鍛える。 ⏎ → To train one's body. ⏎ 毎日走って足腰を鍛えている。 ⏎ → I run every day to strengthen my legs and lower back. ⏎ 2. To develop skills or abilities ⏎ 英語力を鍛える。 ⏎ → To improve/train one's English skills. ⏎ プレゼン能力を鍛える。 ⏎ → To develop presentation skills. ⏎ 3. To toughen or discipline the mind ⏎ 精神を鍛える。 ⏎ → To strengthen one's mind. ⏎ 忍耐力を鍛える。 ⏎ → To build perseverance. ⏎ 4. To forge metal (literal meaning) ⏎ 刀を鍛える。 ⏎ → To forge a sword. ⏎ Common expressions ⏎ 体を鍛える – train your body ⏎ 筋肉を鍛える – build muscle ⏎ 英語を鍛える – improve your English ⏎ 精神を鍛える – toughen your mind ⏎ 腕を鍛える – hone your skills (literally "train your arm") ⏎ Difference from similar verbs ⏎ Verb	Meaning ⏎ 鍛える	To strengthen or develop through rigorous training. ⏎ 練習する	To practice. ⏎ 育てる	To raise or nurture (people, plants, talent). ⏎ 磨く（みがく）	To polish or refine a skill. | 
+栄える | prosper | さかえる | 町が栄える。 | The town prospers. | 繁栄 |  | 
+そびえる | tower, rise high | そびえる | 山がそびえている。 | The mountain towers high. | そびえ立つ |  | 
+耐える | endure | たえる | 痛みに耐える。 | Endure the pain. | 耐久 |  | 
+設ける | establish, set up | もうける | 機会を設ける。 | Set up an opportunity. | 施設を設ける | 設ける（もうける） has several common meanings. The core idea is "to establish," "to set up," or "to provide." ⏎  ⏎ 1. To establish / set up (most common) ⏎  ⏎ Create or put something in place. ⏎  ⏎ 会議を設ける。 ⏎ → To arrange (set up) a meeting. ⏎ 新しい部署を設ける。 ⏎ → To establish a new department. ⏎ 規則を設ける。 ⏎ → To establish rules. ⏎ 専用の窓口を設ける。 ⏎ → To set up a dedicated service desk. ⏎ 2. To provide / make available ⏎  ⏎ Create an opportunity, space, or time for something. ⏎  ⏎ 休憩時間を設ける。 ⏎ → To provide a break. ⏎ 質疑応答の時間を設ける。 ⏎ → To set aside time for questions. ⏎ 子どもの遊び場を設ける。 ⏎ → To provide a playground for children. ⏎ 3. To have (children) (less common in everyday conversation) ⏎  ⏎ A formal expression. ⏎  ⏎ 子どもを設ける。 ⏎ → To have children. ⏎ Don't confuse it with 儲ける（もうける） ⏎  ⏎ Although they're pronounced the same, they have different meanings: ⏎  ⏎ 設ける → to establish, set up, provide. ⏎ 儲ける → to make a profit; to earn money. ⏎  ⏎ Examples: ⏎  ⏎ 新しいルールを設ける。 → Establish new rules. ⏎ 今年はたくさん儲けた。 → I made a lot of money this year. ⏎ Example using previously studied vocabulary ⏎ 安全のため、新しいルールを設ける必要がある。 ⏎ → It is necessary to establish new rules for safety. ⏎ 地域の資源を守るために、保護区域を設けた。 ⏎ → They established a protected area to preserve local resources. | 
+授ける | grant, bestow | さずける | 賞を授ける。 | Bestow an award. | 知識を授ける |  | 
+破けた | torn | やぶけた | 破けた紙。 | Torn paper. | 破れる |  | 
+ぼけた | blurred, faded | ぼけた | 写真がぼけた。 | The photo is blurry. | ピントがぼける |  | 
+ぼやけた | hazy, vague | ぼやけた | 景色がぼやけた。 | The scenery is hazy. | 輪郭がぼやける |  | 
+ほどけた | came undone | ほどけた | 靴ひもがほどけた。 | Shoelaces came undone. | ほどく |  | 
+場が白けた | the mood died | ばがしらけた | 失言で場が白けた。 | The mood died after the remark. | 白ける |  | 
+背けた | turned away | そむけた | 目を背けた。 | Turned away. | 背ける |  | 
+透ける | be see‑through | すける | 服が透けて見える。 | The clothes are see‑through. | 透けて見える |  | 

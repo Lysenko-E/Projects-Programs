@@ -1,0 +1,56 @@
+対比 | たいひ | contrast | 二つの作品を対比して考える。 | Compare the two works in contrast. | 対比関係 |  | 
+比例 | ひれい | proportion | 成績は努力に比例する。 | Results are proportional to effort. | 比例関係 |  | 
+並列 | へいれつ | parallel; side‑by‑side | 二つの文を並列して説明する。 | Explain the two sentences side by side. | 並列処理 |  | 
+収集 | しゅうしゅう | collection | 情報を収集して分析する。 | Collect and analyze information. | データ収集 |  | 
+口喧嘩 | くちげんか | verbal fight | 二人は口喧嘩を始めた。 | The two started arguing. | 口喧嘩になる |  | 
+参上 | さんじょう | to appear (formal) | 明日参上いたします。 | I will come tomorrow. | ご参上 |  | 
+降参 | こうさん | surrender | 彼はついに降参した。 | He finally surrendered. | 完全降参 |  | 
+参照 | さんしょう | reference | 詳細は資料を参照してください。 | Please refer to the document. | 参照元 |  | 
+投棄 | とうき | dumping | 不法投棄が問題になっている。 | Illegal dumping is a problem. | 廃棄物投棄 |  | 
+降参 | こうさん | surrender | もう降参だ。 | I give up. | 降参する |  | 
+投稿 | とうこう | submission; post | 写真をSNSに投稿した。 | I posted a photo on SNS. | 投稿記事 |  | 
+対策を練っている | たいさくをねっている | devising countermeasures | 会社は新しい対策を練っている。 | The company is devising new measures. | 対策を練る |  | 
+対抗的 | たいこうてき | opposing; competitive | 対抗的な態度を取った。 | He took an oppositional stance. | 対抗的行動 |  | 
+対照的 | たいしょうてき | contrasting | 二人の性格は対照的だ。 | Their personalities are contrasting. | 対照的な色 |  | 
+相対的 | そうたいてき | relative | 幸福度は相対的なものだ。 | Happiness is relative. | 相対的評価 |  | 
+科学的 | かがくてき | scientific | 科学的根拠が必要だ。 | Scientific evidence is needed. | 科学的分析 |  | 
+脱出 | だっしゅつ | escape | 彼らは建物から脱出した。 | They escaped from the building. | 脱出劇 |  | 
+摘発 | てきはつ | exposure; crackdown | 警察が不正を摘発した。 | Police exposed the wrongdoing. | 不正摘発 |  | 
+摘出 | てきしゅつ | removal (surgical) | 腫瘍を摘出した。 | The tumor was removed. | 摘出手術 |  | 
+運勢 | うんせい | fortune | 今日の運勢は良い。 | My fortune is good today. | 運勢占い |  | 
+掲示 | けいじ | notice; posting | 掲示板に情報が掲示された。 | Information was posted on the board. | 掲示物 |  | 
+暗示 | あんじ | hint; suggestion | 彼の言葉には暗示が含まれていた。 | His words contained a hint. | 暗示を与える |  | 
+暗記 | あんき | memorization | 単語を暗記する。 | Memorize vocabulary. | 暗記力 |  | 
+暗算 | あんざん | mental calculation | 暗算で答えを出した。 | I solved it by mental math. | 暗算能力 |  | 
+主催 | しゅさい | hosting; organizing | 大会は市が主催した。 | The city hosted the event. | 主催者 |  | 
+主張 | しゅちょう | assertion; claim | 彼は自分の主張を曲げない。 | He won’t bend his claim. | 主張を通す |  | 
+主演 | しゅえん | starring | 彼が映画に主演した。 | He starred in the movie. | 主演俳優 |  | 
+悪循環 | あくじゅんかん | vicious cycle | 悪循環を断ち切る必要がある。 | We must break the vicious cycle. | 悪循環に陥る |  | 
+断つた（断った） | たつ／ことわった | cut off / refused | 彼は悪習を断った。 | He cut off a bad habit. | 関係を断つ | These are actually two completely different verbs that happen to use the same kanji 断. ⏎  ⏎ Verb	Reading	Meaning ⏎ 断つ	たつ	to cut off; to sever; to put an end to ⏎ 断る	ことわる	to refuse; to decline; to inform in advance ⏎  ⏎ So: ⏎  ⏎ 断った = past tense of 断る ⏎ 断った (from 断つ) does not exist. The past tense of 断つ is 断った? Actually, yes, it is also 断った because 断つ is a godan verb ending in つ. The pronunciation is the same, but the reading depends on the verb: ⏎ たった? No—the correct conjugation is たった? Let's clarify: ⏎  ⏎ Let's conjugate them: ⏎  ⏎ ① 断つ（たつ） ⏎ Dictionary: 断つ ⏎ Past: 断った（たった） ← read たった ⏎  ⏎ Examples: ⏎  ⏎ 酒を断った。 ⏎ → He gave up alcohol. ⏎ 悪縁を断った。 ⏎ → She severed a bad relationship. ⏎ 退路を断った。 ⏎ → They cut off the retreat. ⏎  ⏎ Here 断つ means to cut off completely, often in a figurative sense. ⏎  ⏎ ② 断る（ことわる） ⏎ Dictionary: 断る ⏎ Past: 断った（ことわった） ⏎  ⏎ Examples: ⏎  ⏎ 誘いを断った。 ⏎ → I turned down the invitation. ⏎ 申し出を断った。 ⏎ → He refused the offer. ⏎ 事前に断っておく。 ⏎ → Inform someone beforehand. | 
+幼稚園 | ようちえん | kindergarten | 子どもを幼稚園に通わせている。 | My child attends kindergarten. | 幼稚園児 |  | 
+死傷者 | ししょうしゃ | casualties | 事故で死傷者が出た。 | There were casualties in the accident. | 死傷者数 |  | 
+報道 | ほうどう | news reporting | 事件が報道された。 | The incident was reported. | 報道機関 |  | 
+取締役 | とりしまりやく | company director | 彼は取締役に就任した。 | He became a company director. | 取締役会 |  | 
+過疎化 | かそか | depopulation | 村の過疎化が進んでいる。 | The village is becoming depopulated. | 過疎化問題 |  | 
+屋敷 | やしき | mansion; estate | 古い屋敷が残っている。 | An old estate remains. | 屋敷跡 |  | 
+不気味 | ぶきみ | eerie; creepy | 不気味な音が聞こえた。 | I heard a creepy sound. | 不気味な雰囲気 |  | 
+無条件 | むじょうけん | unconditional | 無条件で賛成する。 | I agree unconditionally. | 無条件降伏 |  | 
+雰囲気 | ふんいき | atmosphere | この店は雰囲気が良い。 | This place has a nice atmosphere. | 雰囲気作り |  | 
+多種多様 | たしゅたよう | diverse; various | 多種多様な文化が存在する。 | Many diverse cultures exist. | 多種多様な商品 |  | 
+香辛料 | こうしんりょう | spices | 香辛料を加える。 | Add spices. | 香辛料の香り |  | 
+無秩序 | むちつじょ | disorder | 無秩序な状態が続いた。 | Disorder continued. | 無秩序な行動 |  | 
+じわじわと | じわじわと | gradually; slowly | 物価がじわじわと上がっている。 | Prices are rising gradually. | じわじわ広がる |  | 
+こみ上げる | こみあげる | to well up | 涙がこみ上げてきた。 | Tears welled up. | 感情がこみ上げる |  | 
+規則正しい | きそくただしい | regular; orderly | 規則正しい生活を送る。 | Live an orderly life. | 規則正しい習慣 | 1. A regular lifestyle ⭐⭐⭐⭐⭐ ⏎  ⏎ This is the most common use. ⏎  ⏎ 規則正しい生活 ⏎  ⏎ a regular lifestyle ⏎ a well-ordered daily routine ⏎  ⏎ Example: ⏎  ⏎ 健康のために規則正しい生活を送っている。 ⏎  ⏎ I lead a regular lifestyle for the sake of my health. ⏎  ⏎ This means things like: ⏎  ⏎ waking up at the same time ⏎ eating regular meals ⏎ sleeping enough ⏎ having a routine ⏎ 2. Regular habits ⏎ 規則正しい食生活 ⏎  ⏎ regular eating habits ⏎  ⏎ 規則正しい睡眠 ⏎  ⏎ a regular sleep schedule ⏎  ⏎ 3. Orderly patterns ⏎ 規則正しく並んでいる。 ⏎  ⏎ They are arranged neatly in a regular pattern. ⏎  ⏎ 規則正しく植えられた木 ⏎  ⏎ Trees planted in evenly spaced rows. ⏎  ⏎ 4. Rhythm ⏎ 規則正しい呼吸 ⏎  ⏎ steady, regular breathing | 
+目に見えて | めにみえて | noticeably | 彼は目に見えて成長した。 | He improved noticeably. | 目に見えて変わる |  | 
+ひしひしと | ひしひしと | keenly; intensely | 危機がひしひしと迫る。 | The crisis approaches intensely. | ひしひしと感じる | Very common pattern ⏎ ひしひしと感じる ⭐⭐⭐⭐⭐ ⏎  ⏎ This is by far the most common collocation. ⏎  ⏎ Examples: ⏎  ⏎ 責任の重さをひしひしと感じる。 ⏎  ⏎ I keenly feel the weight of the responsibility. ⏎  ⏎ 時代の変化をひしひしと感じる。 ⏎  ⏎ I strongly feel that the times are changing. ⏎  ⏎ 彼の本気さがひしひしと伝わってきた。 ⏎  ⏎ I could clearly feel how serious he was. ⏎  ⏎ Other common collocations ⏎ ひしひしと伝わる ⏎  ⏎ to come across strongly ⏎  ⏎ ひしひしと実感する ⏎  ⏎ to keenly realize | 
+みるみる | みるみる | rapidly | みるみる回復した。 | He recovered rapidly. | みるみるうちに |  | 
+怯える | おびえる | to be frightened | 子どもが雷に怯えている。 | The child is scared of thunder. | 恐怖に怯える |  | 
+散々な | さんざんな | terrible; disastrous | 散々な結果になった。 | It ended in a terrible result. | 散々な目に遭う |  | 
+しょっちゅう | しょっちゅう | frequently | 彼はしょっちゅう遅刻する。 | He is late all the time. | しょっちゅう起こる |  | 
+気が向いたら | きがむいたら | if you feel like it | 気が向いたら来てください。 | Come if you feel like it. | 気が向いた時 |  | 
+予定が埋まっている | よていがうまっている | schedule is full | 今週は予定が埋まっている。 | My schedule is full this week. | 予定が埋まる |  | 
+予断 | よだん | premature assumption | 予断を許さない状況だ。 | The situation allows no assumptions. | 予断を排す |  | 
+下心 | したごころ | ulterior motive | 彼には下心がある。 | He has ulterior motives. | 下心を見抜く |  | 
+脇役 | わきやく | supporting role | 彼は映画で脇役を演じた。 | He played a supporting role. | 脇役キャラ |  | 
+面影 | おもかげ | trace; resemblance | 昔の面影が残っている。 | A trace of the past remains. | 面影を残す |  | 

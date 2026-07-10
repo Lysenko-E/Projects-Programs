@@ -1,0 +1,47 @@
+負債 | debt; liabilities | ふさい | 会社は多額の負債を抱えている。 | The company carries large liabilities. | 負債総額 |  | 借金（しゃっきん） related
+近郊 | suburbs; outskirts | きんこう | 東京近郊に住んでいる。 | I live in the outskirts of Tokyo. | 首都圏近郊 |  | 郊外（こうがい）
+名誉 | honor; prestige | めいよ | 名誉ある賞を受けた。 | He received an honorable award. | 名誉教授 |  | 栄誉（えいよ）
+富豪 | wealthy person | ふごう | 彼は若くして富豪になった。 | He became wealthy at a young age. | 大富豪 |  | 金持ち casual
+万能 | all‑purpose; versatile | ばんのう | 彼は万能な選手だ。 | He is a versatile player. | 万能薬 | 1. Versatile / all-purpose (most common) ⏎  ⏎ Used for tools, products, or methods that can be used in many situations. ⏎  ⏎ Examples ⏎ 万能ナイフ ⏎ → a multipurpose knife ⏎ 万能ソース ⏎ → an all-purpose sauce ⏎ 万能薬（ばんのうやく） ⏎ → a cure-all / panacea ⏎  ⏎ Example: ⏎  ⏎ このソフトは万能ではない。 ⏎ → This software isn't suitable for everything. ⏎ 2. Extremely capable person ⏎  ⏎ Used to describe someone who is good at many different things. ⏎  ⏎ Examples ⏎ 万能選手 ⏎ → an all-around athlete ⏎ 彼は本当に万能だ。 ⏎ → He's incredibly versatile. ⏎ 万能型の人材 ⏎ → a versatile employee ⏎ 3. "Not a magic solution" ⏎  ⏎ A very common expression is: ⏎  ⏎ 万能ではない。 ⏎ → It's not a cure-all. ⏎ → It's not perfect. ⏎ → It can't solve every problem. ⏎  ⏎ Examples: ⏎  ⏎ AIは万能ではない。 ⏎ → AI isn't a magic solution. ⏎ この薬は万能ではありません。 ⏎ → This medicine isn't effective for everything. ⏎ Difference from similar words ⏎ Word	Meaning	Nuance ⏎ 万能	all-purpose, can do almost anything	Broad usefulness ⏎ 多機能（たきのう）	multifunctional	Has many functions ⏎ 全能（ぜんのう）	omnipotent	Unlimited power (often used of a god) ⏎  ⏎ Examples: ⏎  ⏎ 万能ナイフ ⏎ → all-purpose knife ⏎ 多機能プリンター ⏎ → multifunction printer ⏎ 全能の神 ⏎ → an omnipotent God ⏎ Common expressions ⏎ 万能薬 ⏎ → cure-all ⏎ 万能選手 ⏎ → all-round player ⏎ 万能ではない ⏎ → not a silver bullet / not a cure-all ⏎ 万能感（ばんのうかん） ⏎ → feeling that one can do anything (often overconfidence) ⏎ Example sentences ⏎ ChatGPTは便利ですが、万能ではありません。 ⏎ → ChatGPT is useful, but it's not a cure-all. ⏎ 彼はプログラミングも営業もできる万能型だ。 ⏎ → He's a versatile person who can both program and work in sales. ⏎ Easy way to remember ⏎ 万 = ten thousand (i.e. "everything") ⏎ 能 = ability ⏎  ⏎ So 万能 literally means: ⏎  ⏎ "having every ability." ⏎  ⏎ In everyday Japanese, it usually means very versatile, all-purpose, or not limited to just one thing, rather than literally "able to do absolutely everything." | 多才（たさい）
+巧妙 | clever; skillful | こうみょう | 巧妙な手口で盗まれた。 | It was stolen by a clever method. | 巧妙な作戦 | 巧妙（こうみょう） means: ⏎  ⏎ ingenious, cleverly designed, skillfully executed, or crafty, depending on the context. ⏎  ⏎ It describes something that is very skillfully done, often in a way that is difficult to notice or counter. ⏎  ⏎ Positive examples ⏎ 巧妙な仕組み ⏎ → an ingenious mechanism ⏎ 巧妙なデザイン ⏎ → a clever design ⏎ 巧妙に作られている。 ⏎ → It is skillfully made. ⏎ Negative examples (very common) ⏎  ⏎ 巧妙 is frequently used in a negative sense for things like scams, deception, or crimes. ⏎  ⏎ 巧妙な詐欺 ⏎ → a sophisticated scam ⏎ 巧妙な手口 ⏎ → a clever/sophisticated method (of committing a crime) ⏎ 巧妙に偽装する。 ⏎ → to disguise something cleverly ⏎ Example sentences ⏎ 詐欺の手口は年々巧妙になっている。 ⏎ → Scam techniques are becoming more sophisticated every year. ⏎ そのトリックは非常に巧妙だった。 ⏎ → The trick was extremely clever. ⏎ 巧妙に隠されていたため、誰も気づかなかった。 ⏎ → It was so cleverly concealed that no one noticed. ⏎ Nuance ⏎  ⏎ The key point is that 巧妙 emphasizes skillfulness and ingenuity, not whether something is morally good or bad. ⏎  ⏎ Compare: ⏎  ⏎ 巧妙な仕組み ⏎ → an ingenious system (positive) ⏎ 巧妙な詐欺 ⏎ → a sophisticated scam (negative) | 巧み（たくみ）
+借金 | debt; loan | しゃっきん | 借金を返済した。 | I repaid my debt. | 借金生活 |  | 負債（ふさい）
+膨大 | enormous; vast | ぼうだい | 膨大なデータを処理する。 | Process an enormous amount of data. | 膨大な量 |  | 莫大（ばくだい）
+貴族 | aristocrat | きぞく | 彼の家系は貴族だ。 | His family line is aristocratic. | 貴族社会 |  | 上流階級
+庶民 | ordinary people | しょみん | その店は庶民に人気だ。 | The shop is popular among common people. | 庶民感覚 |  | 一般人
+生涯 | lifetime | しょうがい | 彼は生涯を研究に捧げた。 | He devoted his whole life to research. | 生涯学習 |  | 一生（いっしょう）
+幻滅 | disillusionment | げんめつ | 彼の態度に幻滅した。 | I was disillusioned by his attitude. | 幻滅感 | 幻滅（げんめつ） means: ⏎  ⏎ disillusionment, disappointment after reality doesn't match your expectations, or to lose one's illusions about someone or something. ⏎  ⏎ The key nuance is: ⏎  ⏎ You had a positive image or high expectations, but reality shattered them. ⏎  ⏎ Common examples ⏎ 幻滅する ⏎ → to become disillusioned ⏎ 幻滅を覚える ⏎ → to feel disillusioned ⏎ 幻滅させる ⏎ → to disappoint someone / make someone lose respect ⏎ Example sentences ⏎ 彼の態度を見て幻滅した。 ⏎ → I was disappointed in him. / I lost respect for him after seeing his attitude. ⏎ 子どものころの憧れが幻滅に変わった。 ⏎ → My childhood admiration turned into disillusionment. ⏎ ファンを幻滅させるような発言だった。 ⏎ → It was a comment that disappointed the fans. ⏎ Nuance ⏎  ⏎ 幻滅 is stronger than simply がっかりする. ⏎  ⏎ Compare: ⏎  ⏎ がっかりする ⏎ → I'm disappointed. ⏎ 幻滅する ⏎ → I had a good opinion of them, but now I've lost it. ⏎  ⏎ For example: ⏎  ⏎ レストランの料理がおいしくなくてがっかりした。 ⏎ → I was disappointed because the food wasn't good. ⏎ 尊敬していた先生が嘘をついていると知って幻滅した。 ⏎ → I was disillusioned after learning that the teacher I respected had lied. ⏎  ⏎ In the second case, your image of the person changes. ⏎  ⏎ Difference from similar words ⏎ Word	Meaning	Nuance ⏎ がっかり	disappointed	General disappointment ⏎ 失望（しつぼう）	disappointment	Formal, expectations not met ⏎ 幻滅	disillusionment	Positive image is shattered ⏎ Common collocations ⏎ 人に幻滅する ⏎ → to lose respect for someone ⏎ 政治に幻滅する ⏎ → to become disillusioned with politics ⏎ 理想が幻滅に変わる ⏎ → ideals turn into disillusionment | がっかり similar nuance
+点検 | inspection | てんけん | 車を点検した。 | I inspected the car. | 安全点検 |  | 検査（けんさ）
+点滅 | blinking; flashing | てんめつ | ランプが点滅している。 | The light is blinking. | 点滅信号 |  | 点灯（てんとう） opposite
+減点 | point deduction | げんてん | ミスで減点された。 | I lost points due to a mistake. | 減点方式 |  | 加点（かてん） opposite
+遠征 | expedition; campaign | えんせい | チームが遠征に出た。 | The team went on an away expedition. | 遠征試合 |  | 出張（しゅっちょう） contextually similar
+軽視 | making light of; neglect | けいし | 危険を軽視してはいけない。 | Don’t underestimate the danger. | 軽視される |  | 無視（むし）
+重複 | duplication; overlap | ちょうふく | 情報が重複している。 | The information overlaps. | 重複チェック |  | ダブり casual
+復旧 | restoration; recovery | ふっきゅう | 電力が復旧した。 | Power has been restored. | 復旧作業 |  | 復興（ふっこう）
+福禄 | fortune and prosperity | ふくろく | 福禄を願う。 | Wish for fortune and prosperity. | 福禄寿 |  | 幸運（こううん）
+複合 | composite; combined | ふくごう | 複合施設が建設された。 | A multi‑purpose facility was built. | 複合動詞 |  | 合成（ごうせい）
+凝る | to be absorbed in; to stiffen | こる | 最近料理に凝っている。 | I’m really into cooking lately. | 肩が凝る |  | 夢中になる
+危険が迫る | danger approaches | きけんがせまる | 危険が迫っている。 | Danger is approaching. | 危険が迫る状況 |  | 危機（きき）
+遮る | to block; interrupt | さえぎる | 彼の話を遮った。 | I interrupted his speech. | 光を遮る |  | 妨げる（さまたげる）
+余る | to remain; be left over | あまる | 時間が余った。 | We had time left over. | 余り物 |  | 残る（のこる）
+去る | to leave; to go away | さる | 彼は静かに去った。 | He left quietly. | 立ち去る |  | 離れる（はなれる）
+目に余るものがある | intolerable; unacceptable | めにあまるものがある | 彼の態度は目に余るものがある。 | His attitude is unacceptable. | 目に余る行為 |  | 度が過ぎる
+気持ちが焦る | feel rushed; impatient | きもちがあせる | 時間がなくて気持ちが焦る。 | I feel rushed because there’s no time. | 焦る気持ち |  | いらいらする
+反る | to warp; bend | そる | 板が反っている。 | The board is warped. | 反り返る |  | 曲がる（まがる）
+頭の回転が鈍っている | thinking is slow | あたまのかいてんがにぶっている | 疲れて頭の回転が鈍っている。 | I'm tired and thinking slowly. | 頭の回転 |  | 鈍い（にぶい）
+損なう | to damage; harm | そこなう | 信頼を損なった。 | I damaged the trust. | 健康を損なう |  | 失う（うしなう）
+さからった | resisted; defied | さからった | 親にさからった。 | I defied my parents. | 親に逆らう |  | 反抗（はんこう）
+ふけった | aged; looked older | ふけった | 最近急にふけった。 | He suddenly looks older. | 老けた顔 |  | 老いる（おいる）
+はかどった | progressed well | はかどった | 作業がはかどった。 | The work progressed smoothly. | 勉強がはかどる |  | 進む（すすむ）
+傾く | to tilt; lean | かたむく | コップが傾いている。 | The cup is tilted. | 傾いた建物 |  | 斜めになる
+人一倍 | more than others | ひといちばい | 人一倍努力した。 | I worked harder than anyone. | 人一倍頑張る |  | 普通以上に
+につけ | whenever; every time | につけ | 彼の話を聞くにつけ考えさせられる。 | Whenever I hear him speak, I think deeply. | 見るにつけ |  | 〜たびに similar
+念入り | thorough; careful | ねんいり | 念入りに準備した。 | I prepared carefully. | 念入りな計画 |  | 丁寧（ていねい）
+下調べ | preliminary research | したしらべ | 下調べをしてから行く。 | I’ll go after doing preliminary research. | 下調べ不足 |  | 事前調査
+にわたって | over; throughout | にわたって | 会議は三時間にわたって続いた。 | The meeting lasted for three hours. | 広範囲にわたって |  | 〜に及ぶ
+ひたすら | single‑mindedly | ひたすら | ひたすら努力した。 | I worked single‑mindedly. | ひたすら頑張る |  | 一心に（いっしんに）
+ひたすら厳しい | relentlessly strict | ひたすらきびしい | 彼の指導はひたすら厳しい。 | His coaching is relentlessly strict. | ひたすら厳しい態度 |  | 容赦ない
+混雑 | congestion; crowding | こんざつ | 電車が混雑している。 | The train is crowded. | 混雑状況 |  | 混む（こむ）
+お洒落な | stylish | おしゃれな | お洒落な服だ。 | That’s a stylish outfit. | お洒落な人 |  | かっこいい casual
+長雨 | long rain; prolonged rain | ながあめ | 長雨が続いている。 | The long rain continues. | 長雨の季節 |  | 梅雨（つゆ）
+一苦労 | a lot of trouble | ひとくろう | ここまで来るのも一苦労だ。 | Getting here was quite a hassle. | 一苦労する |  | 大変（たいへん）
+疲弊 | exhaustion; fatigue | ひへい | 仕事で疲弊している。 | I'm exhausted from work. | 疲弊状態 |  | 疲れ果てる

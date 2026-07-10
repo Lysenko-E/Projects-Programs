@@ -1,0 +1,71 @@
+ちょくちょく | frequently; now and then | ちょくちょく | ちょくちょく店に来る。 | He comes to the shop often. | ちょくちょく顔を出す |  | たびたび similar nuance
+散らかす | to scatter; to make messy | ちらかす | 部屋を散らかした。 | I made the room messy. | 部屋を散らかす |  | 散乱（さんらん） visually related
+おどおど | nervously; timidly | おどおど | 彼はおどおど話した。 | He spoke nervously. | おどおどした態度 |  | びくびく similar nuance
+うきうき | excited; cheerful | うきうき | 旅行前でうきうきしている。 | I'm excited before the trip. | うきうき気分 |  | わくわく similar nuance
+ぐらぐら | shaking; unstable | ぐらぐら | 地震で家がぐらぐらした。 | The house shook in the earthquake. | ぐらぐら揺れる |  | ぐらつく similar nuance
+ぺらぺら | fluent; thin | ぺらぺら | 彼は英語がぺらぺらだ。 | He speaks English fluently. | ぺらぺら話す |  | 流暢（りゅうちょう） similar meaning
+とぎれとぎれ | intermittent; broken | とぎれとぎれ | とぎれとぎれに話す。 | Speak in broken sentences. | とぎれとぎれの声 |  | 断続的（だんぞくてき）
+うとうと | dozing off | うとうと | 授業中にうとうとした。 | I dozed off during class. | うとうと眠る |  | 居眠り related
+ぽつぽつ | little by little; sporadically | ぽつぽつ | 雨がぽつぽつ降り始めた。 | It started raining lightly. | ぽつぽつ話す |  | ちらほら similar nuance
+ひらひら | fluttering | ひらひら | 紙がひらひら落ちた。 | The paper fluttered down. | ひらひら舞う |  | ふわふわ related nuance
+途端 | the moment; just as | とたん | 家を出た途端、雨が降った。 | The moment I left, it rained. | 〜した途端 |  | 直後（ちょくご）
+寝苦しい | hard to sleep | ねぐるしい | 暑くて寝苦しい夜だ。 | It's a hot, sleepless night. | 寝苦しい季節 |  | 不眠 related
+そっけない | cold; blunt | そっけない | そっけない返事をされた。 | I got a cold reply. | そっけない態度 |  | 冷淡（れいたん）
+あっけなく | too easily; disappointingly quickly | あっけなく | 試合はあっけなく終わった。 | The match ended too quickly. | あっけなく敗れる |  | あっさり similar nuance
+くどく | tediously; repetitively | くどく | くどく説明された。 | He explained tediously. | くどく言う |  | しつこい similar nuance
+回りにくい | hard to rotate | まわりにくい | このネジは回りにくい。 | This screw is hard to turn. | 回りにくい部品 |  | 回しづらい
+回りくどい | roundabout; indirect | まわりくどい | 回りくどい言い方をするな。 | Don’t speak indirectly. | 回りくどい説明 |  | 遠回し（とおまわし）
+簡潔に | concisely | かんけつに | 簡潔にまとめてください。 | Please summarize concisely. | 簡潔に述べる |  | 要点（ようてん）
+規制 | regulation | きせい | 交通規制が行われた。 | Traffic regulations were enforced. | 規制強化 |  | 制限（せいげん）
+強制 | compulsion; enforcement | きょうせい | 強制的に参加させられた。 | I was forced to participate. | 強制労働 |  | 無理やり similar nuance
+制覇 | domination; conquest | せいは | 世界を制覇した。 | He conquered the world. | 全国制覇 |  | 征服（せいふく）
+抑制 | suppression; control | よくせい | 物価の上昇を抑制する。 | Control price increases. | 感情の抑制 |  | 制御（せいぎょ）
+告発 | accusation; charge | こくはつ | 彼を告発した。 | He was accused. | 汚職告発 |  | 告訴（こくそ）
+告白 | confession | こくはく | 彼女に告白した。 | I confessed to her. | 愛の告白 |  | 打ち明ける similar nuance
+申告 | declaration; report | しんこく | 税金を申告する。 | File taxes. | 確定申告 |  | 報告（ほうこく）
+忠告 | advice; warning | ちゅうこく | 忠告を聞くべきだ。 | You should listen to the advice. | 忠告する |  | 助言（じょげん）
+知事 | governor | ちじ | 知事が会見した。 | The governor held a press conference. | 都道府県知事 |  | 市長（しちょう）
+追求 | pursuit; seeking | ついきゅう | 真実を追求する。 | Pursue the truth. | 利益追求 |  | 探求（たんきゅう）
+祈願 | prayer; wish | きがん | 合格を祈願した。 | I prayed for success. | 必勝祈願 |  | 祈る（いのる）
+要請 | request; appeal | ようせい | 政府が協力を要請した。 | The government requested cooperation. | 支援要請 |  | 依頼（いらい）
+要約 | summary | ようやく | 内容を要約した。 | I summarized the content. | 要約文 |  | まとめ similar nuance
+重複 | duplication; overlap | ちょうふく | 情報が重複している。 | The information overlaps. | 重複チェック |  | ダブり casual
+重宝 | useful; handy | ちょうほう | この道具は重宝する。 | This tool is very useful. | 重宝がられる |  | 便利 similar nuance
+警視 | police inspector | けいし | 警視が現場に到着した。 | The inspector arrived at the scene. | 警視庁 |  | 警部（けいぶ）
+軽蔑 | contempt; disdain | けいべつ | 彼を軽蔑した。 | I despised him. | 軽蔑の眼差し |  | 見下す similar meaning
+景気 | economic conditions | けいき | 景気が回復した。 | The economy recovered. | 景気悪化 |  | 経済状況
+決裂 | breakdown; rupture | けつれつ | 交渉が決裂した。 | Negotiations broke down. | 話し合いの決裂 |  | 破綻（はたん）
+決行 | carrying out; execution | けっこう | 計画を決行した。 | We carried out the plan. | 決行する |  | 実行（じっこう）
+決意 | determination | けつい | 留学を決意した。 | I decided to study abroad. | 強い決意 |  | 覚悟（かくご）
+決断 | decision; determination | けつだん | 重大な決断を下した。 | I made an important decision. | 決断力 |  | 判断（はんだん）
+統治 | governance; rule | とうち | 国を統治する。 | Govern a country. | 統治体制 |  | 支配（しはい）
+引率 | leading; guiding | いんそつ | 生徒を引率した。 | I led the students. | 引率者 |  | 先導（せんどう）
+率先 | taking initiative | そっせん | 率先して行動した。 | I took the initiative. | 率先して〜する |  | 主導（しゅどう）
+促進 | promotion; acceleration | そくしん | 発展を促進する。 | Promote development. | 成長促進 |  | 促す（うながす）
+推薦 | recommendation | すいせん | 彼を推薦した。 | I recommended him. | 推薦状 |  | 推挙（すいきょ）
+勧告 | recommendation; advice | かんこく | 医師の勧告に従う。 | Follow the doctor’s advice. | 勧告を受ける | Both 勧告（かんこく） and 忠告（ちゅうこく） can be translated as "advice" or "warning," but they are used in quite different situations. ⏎  ⏎ 忠告（ちゅうこく） ⏎ Personal advice or warning given for someone's benefit. ⏎ The nuance is: ⏎ "I'm telling you this because I want to help you avoid problems." ⏎  ⏎ Examples ⏎ 医者が禁煙するよう忠告した。 ⏎ → The doctor advised him to quit smoking. ⏎ 友人の忠告を無視した。 ⏎ → I ignored my friend's advice. ⏎ 忠告しておくけど、その投資は危ないよ。 ⏎ → Just a warning, that investment is risky. ⏎  ⏎ This is often: ⏎  ⏎ person → person ⏎ based on concern ⏎ not legally binding ⏎  ⏎ 勧告（かんこく） ⏎ An official recommendation or directive from an authority. ⏎ The nuance is: ⏎ "An organization or authority strongly recommends that you do this." ⏎  ⏎ Examples ⏎ 避難勧告 ⏎ → evacuation advisory/recommendation (historically common term in Japan) ⏎ 政府が勧告を出した。 ⏎ → The government issued a recommendation. ⏎ 委員会は改善を勧告した。 ⏎ → The committee recommended improvements. ⏎ 労働基準監督署から是正勧告を受けた。 ⏎ → The company received a corrective recommendation from the Labor Standards Inspection Office. ⏎  ⏎ This is often: ⏎  ⏎ authority → individual/organization ⏎ formal and official ⏎ stronger than ordinary advice ⏎ may carry pressure even if not legally enforceable ⏎ Quick comparison ⏎ Word	Who says it?	Meaning ⏎ 忠告	Friend, doctor, parent, colleague	Advice/warning for your benefit ⏎ 勧告	Government, committee, regulator | 忠告（ちゅうこく）
+格闘 | hand‑to‑hand fighting | かくとう | 彼は格闘技が得意だ。 | He is skilled in martial arts. | 格闘家 |  | 戦闘（せんとう）
+争奪 | struggle for; scramble | そうだつ | 商品を争奪した。 | People scrambled for the product. | 争奪戦 | Common collocations ⏎ 人材争奪戦 ⏎  ⏎ competition for talent ⏎  ⏎ Very common in business. ⏎  ⏎ Example: ⏎  ⏎ IT業界では優秀な人材の争奪戦が激しい。 ⏎  ⏎ Competition for talented workers is fierce in the IT industry. ⏎  ⏎ チケット争奪戦 ⏎  ⏎ ticket scramble ⏎  ⏎ Everyone is trying to get concert tickets. ⏎  ⏎ 顧客争奪戦 ⏎  ⏎ competition for customers ⏎  ⏎ 優勝争奪 ⏎  ⏎ competition for the championship/title | 奪い合い
+紛争 | conflict; dispute | ふんそう | 国際紛争が続いている。 | International conflicts continue. | 紛争地域 |  | 争い（あらそい）
+閲覧 | browsing; viewing | えつらん | 資料を閲覧した。 | I viewed the documents. | 閲覧制限 |  | 閲読（えつどく）
+受賞 | receiving an award | じゅしょう | 彼は賞を受賞した。 | He received an award. | 受賞作品 |  | 授賞（じゅしょう）
+観賞 | appreciation (art, scenery) | かんしょう | 花を観賞する。 | Appreciate flowers. | 観賞用 |  | 観覧（かんらん）
+参観 | visiting; observing | さんかん | 授業を参観した。 | I observed the class. | 参観日 |  | 見学（けんがく）
+失態 | blunder; disgrace | しったい | 彼は大きな失態を犯した。 | He made a big blunder. | 失態を演じる |  | 失敗（しっぱい）
+面目を潰す | lose face | めんぼくをつぶす | 彼の前で面目を潰した。 | I lost face in front of him. | 面目を潰す行為 |  | 体面（たいめん）
+飢餓 | starvation | きが | 飢餓が深刻だ。 | Starvation is severe. | 飢餓状態 |  | 飢える（うえる）
+生み出す | to create; generate | うみだす | 新しい価値を生み出す。 | Create new value. | 作品を生み出す |  | 産む（うむ）
+酪農 | dairy farming | らくのう | 酪農が盛んな地域。 | A region known for dairy farming. | 酪農家 |  | 牧場（ぼくじょう）
+無礼極まりない態度 | extremely rude attitude | ぶれいきわまりないたいど | 無礼極まりない態度を取った。 | He behaved extremely rudely. | 無礼極まりない発言 |  | 失礼（しつれい）
+既婚 | married | きこん | 彼は既婚者だ。 | He is married. | 既婚女性 |  | 未婚（みこん） opposite
+経緯 | background; circumstances | けいい | 事件の経緯を説明する。 | Explain the circumstances of the incident. | 詳しい経緯 |  | 事情（じじょう）
+事細かく | in detail | ことこまかく | 事細かく説明した。 | Explained in detail. | 事細かい描写 |  | 詳細に（しょうさいに）
+聞いて回る | go around asking | きいてまわる | 町で聞いて回った。 | I went around asking in town. | 情報を聞いて回る |  | 取材（しゅざい）
+積込 | loading (cargo) | つみこみ | 荷物を積込した。 | Loaded the cargo. | 積込作業 |  | 積載（せきさい）
+船舶 | ship; vessel | せんぱく | 船舶が港に停泊した。 | The ship docked at the port. | 船舶免許 |  | 船（ふね）
+停泊 | anchoring; docking | ていはく | 船が停泊している。 | The ship is anchored. | 停泊地 |  | 停留（ていりゅう）
+便宜を図る見返りに | in exchange for a favor | べんぎをはかるみかえりに | 便宜を図る見返りに金を受け取った。 | He took money in exchange for a favor. | 便宜供与 |  | 賄賂（わいろ） related
+陶器 | pottery | とうき | 陶器を集めている。 | I collect pottery. | 陶器市 |  | 陶芸（とうげい）
+妊娠中 | during pregnancy | にんしんちゅう | 妊娠中は注意が必要だ。 | Care is needed during pregnancy. | 妊娠中の女性 |  | 妊婦（にんぷ）
+禁物 | taboo; forbidden thing | きんもつ | 油断は禁物だ。 | Carelessness is forbidden. | 禁物の行為 |  | 禁止（きんし）
+対価 | compensation; return value | たいか | 労働の対価を受け取る。 | Receive compensation for labor. | 対価を支払う |  | 見返り（みかえり）

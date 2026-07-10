@@ -1,0 +1,59 @@
+結晶 | crystal; crystallization | けっしょう | 雪が結晶になった。 | The snow formed crystals. | 氷の結晶 |  | 凝固（ぎょうこ） related, クリスタル loanword
+無言 | silence; wordless | むごん | 彼は無言で立ち去った。 | He left without a word. | 無言の圧力 |  | 沈黙（ちんもく） similar meaning
+誇張 | exaggeration | こちょう | 彼の話は誇張が多い。 | His story has a lot of exaggeration. | 誇張表現 |  | 大げさ similar nuance
+悪癖 | bad habit | あくへき | 悪癖を直したい。 | I want to fix my bad habit. | 悪癖がつく |  | 習慣（しゅうかん） related, 癖（くせ） base word
+進歩 | progress; improvement | しんぽ | 技術は日々進歩している。 | Technology progresses daily. | 科学の進歩 |  | 発展（はってん） similar nuance
+融通 | flexibility; adaptability | ゆうずう | 彼は融通が利く。 | He is flexible. | 融通を利かせる |  | 柔軟（じゅうなん） similar nuance
+融通が利かない | inflexible; rigid | ゆうずうがきかない | 彼は融通が利かない人だ。 | He is an inflexible person. | 性格が融通が利かない |  | 頑固（がんこ） similar nuance
+一概に | categorically; generally speaking | いちがいに | 一概に悪いとは言えない。 | You can’t say it’s bad across the board. | 一概に〜とは言えない |  | 必ずしも〜ない similar usage
+避難 | evacuation; taking shelter | ひなん | 住民が避難した。 | Residents evacuated. | 避難指示 |  | 退避（たいひ） related, 非難（ひなん） visually similar
+突如 | suddenly; abruptly | とつじょ | 突如雨が降り出した。 | It suddenly started raining. | 突如現れる |  | 急に similar meaning
+拝啓 | Dear Sir/Madam (letter opening) | はいけい | 拝啓、春の候。 | Dear Sir, in this spring season. | 拝啓〜敬具 |  | 敬具（けいぐ） closing
+繊維 | fiber; textile | せんい | この服は天然繊維だ。 | This clothing is made of natural fibers. | 化学繊維 |  | 織物（おりもの） related
+判別 | distinguish; differentiate | はんべつ | 本物と偽物を判別する。 | Distinguish real from fake. | 判別が難しい |  | 区別（くべつ） similar meaning
+決意 | determination | けつい | 留学を決意した。 | I decided to study abroad. | 決意を固める |  | 覚悟（かくご） similar nuance
+批判 | criticism | ひはん | 彼の発言は批判された。 | His remark was criticized. | 批判を受ける |  | 非難（ひなん） similar meaning
+審判 | referee; judgment | しんぱん | 審判が試合を止めた。 | The referee stopped the match. | 主審・副審 |  | 判決（はんけつ） related, 審査（しんさ） visually similar
+混同 | mix up; confuse | こんどう | 仕事と私情を混同するな。 | Don’t mix work and personal feelings. | 混同しやすい |  | ごちゃまぜ similar nuance
+連行 | taking away (by police) | れんこう | 容疑者が連行された。 | The suspect was taken away. | 警察に連行 |  | 逮捕（たいほ） related
+同伴 | accompaniment; going with | どうはん | 保護者同伴が必要だ。 | A guardian must accompany. | 同伴者 |  | 付き添い similar nuance
+脱落 | dropping out; falling off | だつらく | 途中で脱落した。 | He dropped out halfway. | 脱落者 |  | 途中離脱（とちゅうりだつ） similar meaning
+暴落 | crash (market); sharp fall | ぼうらく | 株価が暴落した。 | Stock prices crashed. | 株価暴落 |  | 急落（きゅうらく） similar meaning, 暴騰（ぼうとう） opposite
+落札 | winning a bid | らくさつ | 彼がオークションで落札した。 | He won the auction. | 最高落札額 |  | 入札（にゅうさつ） related
+落胆 | disappointment | らくたん | 結果に落胆した。 | I was disappointed by the result. | 落胆の色を見せる |  | がっかり similar meaning
+撤収 | withdrawal; pulling out | てっしゅう | 軍が撤収した。 | The troops withdrew. | 撤収作業 |  | 撤退（てったい） similar meaning
+没収 | confiscation | ぼっしゅう | 違法品が没収された。 | Illegal goods were confiscated. | 財産没収 |  | 取り上げる similar nuance
+収穫 | harvest; yield | しゅうかく | 今年の収穫は多い。 | This year’s harvest is large. | 収穫量 |  | 実り（みのり） related
+吸収 | absorption | きゅうしゅう | 水を吸収する。 | Absorb water. | 吸収率 |  | 取り込む similar nuance
+介護 | nursing care | かいご | 母の介護をしている。 | I care for my mother. | 介護施設 |  | 介助（かいじょ） related
+介入 | intervention | かいにゅう | 政府が市場に介入した。 | The government intervened in the market. | 市場介入 |  | 干渉（かんしょう） similar nuance
+弁護 | legal defense | べんご | 弁護士が被告を弁護した。 | The lawyer defended the defendant. | 自己弁護 |  | 擁護（ようご） related
+警護 | guarding; protection | けいご | 要人を警護する。 | Guard a VIP. | 警護チーム |  | 警備（けいび） similar meaning
+独創的 | creative; original | どくそうてき | 独創的なアイデアだ。 | That’s a creative idea. | 独創的な発想 |  | 創造的（そうぞうてき） similar meaning
+多様性 | diversity | たようせい | 社会の多様性を尊重する。 | Respect diversity in society. | 文化的多様性 |  | バラエティー similar nuance
+協調性 | cooperativeness | きょうちょうせい | 協調性が求められる。 | Cooperativeness is required. | 協調性を重視 |  | チームワーク related
+一貫性 | consistency | いっかんせい | 発言に一貫性がない。 | His statements lack consistency. | 一貫性を保つ |  | 首尾一貫（しゅびいっかん） similar meaning
+観覧 | viewing; watching | かんらん | 展示を観覧した。 | I viewed the exhibition. | 観覧席 |  | 見物（けんぶつ） related
+監視 | monitoring; surveillance | かんし | 警備員が周囲を監視している。 | A guard is monitoring the area. | 監視カメラ |  | 見張る similar meaning
+活用 | utilization | かつよう | データを活用する。 | Utilize data. | 有効活用 |  | 利用（りよう） similar meaning
+閲覧 | browsing; viewing | えつらん | 資料を閲覧した。 | I viewed the documents. | 閲覧制限 |  | 閲読（えつどく） related
+増進 | promotion; enhancement | ぞうしん | 健康増進のために運動する。 | Exercise to promote health. | 健康増進 |  | 向上（こうじょう） similar nuance
+増強 | reinforcement; strengthening | ぞうきょう | 軍事力を増強する。 | Strengthen military power. | 体力増強 |  | 強化（きょうか） similar meaning
+増築 | building extension | ぞうちく | 家を増築した。 | We extended the house. | 校舎増築 |  | 改築（かいちく） related
+意向 | intention; inclination | いこう | 会社の意向を確認する。 | Confirm the company’s intention. | 意向を示す |  | 意思（いし） similar nuance
+考慮 | consideration | こうりょ | 状況を考慮する。 | Consider the situation. | 十分考慮 |  | 検討（けんとう） related
+選考 | selection; screening | せんこう | 応募者を選考する。 | Select applicants. | 一次選考 |  | 選抜（せんばつ） similar meaning
+発明 | invention | はつめい | 新技術を発明した。 | Invented a new technology. | 発明家 |  | 考案（こうあん） related
+考案 | design; devise | こうあん | 新しい方法を考案した。 | Devised a new method. | 考案者 | 考案（こうあん） means: ⏎  ⏎ to devise, to invent, to come up with, or to create an idea through thought and ingenuity. ⏎  ⏎ It is often used for: ⏎  ⏎ methods ⏎ systems ⏎ tools ⏎ products ⏎ designs ⏎ techniques ⏎ Common examples ⏎ 新しい方法を考案する ⏎ → devise a new method ⏎ この装置は彼が考案した。 ⏎ → He devised this device. ⏎ 独自のシステムを考案する ⏎ → develop an original system ⏎ Example sentences ⏎ 彼は効率的な作業手順を考案した。 ⏎ → He devised an efficient work procedure. ⏎ このゲームは日本人が考案した。 ⏎ → This game was invented/devised by a Japanese person. ⏎ 問題を解決するための新しい仕組みを考案した。 ⏎ → We came up with a new mechanism to solve the problem. ⏎ Nuance ⏎  ⏎ 考案 emphasizes: ⏎  ⏎ using thought and creativity to come up with something new. ⏎  ⏎ It often sounds more formal and intellectual than simply: ⏎  ⏎ 思いつく (to think of, have an idea) ⏎  ⏎ For example: ⏎  ⏎ いいアイデアを思いついた。 ⏎ → I came up with a good idea. ⏎ 新しい方式を考案した。 ⏎ → I devised a new method/system. ⏎ Difference from similar words ⏎ Word	Meaning	Nuance ⏎ 思いつく	think of	Idea suddenly comes to mind ⏎ 考える	think	General ⏎ 考案する	devise, invent	Create through ingenuity ⏎ 発明する（はつめい）	invent	Often technological/scientific invention | 工夫（くふう） similar nuance
+ろくに | barely; hardly | ろくに | ろくに寝ていない。 | I barely slept. | ろくに〜ない |  | ほとんど〜ない similar pattern
+志望校 | school of choice | しぼうこう | 志望校に合格したい。 | I want to get into my chosen school. | 第一志望校 |  | 志望（しぼう） base noun
+平仮名 | hiragana | ひらがな | 平仮名を覚える。 | Learn hiragana. | 平仮名表 |  | 片仮名（かたかな） contrast
+やけに | awfully; unusually | やけに | 今日はやけに静かだ。 | It’s unusually quiet today. | やけに〜だ |  | やたらに similar nuance
+洪水 | flood | こうずい | 洪水が発生した。 | A flood occurred. | 洪水警報 | 洪水（こうずい） = a flood (the disaster/event) ⏎ 氾濫（はんらん） = overflowing (the act or state of spilling beyond limits) ⏎ 洪水（こうずい） ⏎  ⏎ Means: ⏎  ⏎ flood ⏎ flood disaster ⏎  ⏎ It's the event itself. ⏎  ⏎ Examples ⏎ 洪水が発生した。 ⏎ → A flood occurred. ⏎ 洪水で町が浸水した。 ⏎ → The town was flooded. ⏎ 洪水警報 ⏎ → Flood warning ⏎ 氾濫（はんらん） ⏎  ⏎ Means: ⏎  ⏎ overflow ⏎ overflowing ⏎ spreading beyond normal limits ⏎  ⏎ It's not limited to water. ⏎  ⏎ Literal ⏎ 川が氾濫する。 ⏎ → The river overflows. ⏎ 河川の氾濫 ⏎ → River overflow. ⏎  ⏎ Notice this describes what the river does, not the disaster itself. | 氾濫（はんらん） related
+もろに | directly; fully | もろに | もろに影響を受けた。 | I was directly affected. | もろに食らう |  | 直接（ちょくせつ） similar meaning
+むやみに | recklessly; blindly | むやみに | むやみに動くな。 | Don’t act recklessly. | むやみに〜する |  | やたらに similar nuance
+とっさに | instinctively; on the spur of the moment | とっさに | とっさに避けた。 | I dodged instinctively. | とっさの判断 |  | 反射的に similar nuance
+まめに | diligently; frequently | まめに | まめに掃除する。 | Clean diligently. | まめに連絡する |  | こまめに similar meaning
+つくづく | deeply; truly | つくづく | つくづくそう思う。 | I truly think so. | つくづく感じる |  | 心から similar nuance
+ざらに | commonly; not rare | ざらに | そんなことはざらにある。 | That happens all the time. | ざらにある話 |  | よくある similar meaning
+そわそわ | restlessly; fidgety | そわそわ | 試験前でそわそわしている。 | I’m restless before the exam. | そわそわ落ち着かない |  | そわつく similar nuance

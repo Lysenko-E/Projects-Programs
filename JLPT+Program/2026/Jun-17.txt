@@ -1,0 +1,60 @@
+後継者 | successor | こうけいしゃ | 彼は会社の後継者だ。 | He is the company’s successor. | 後継者問題 |  | 
+劣化 | deterioration | れっか | 品質が劣化した。 | The quality deteriorated. | 劣化現象 |  | 
+豪雨 | heavy rain | ごうう | 豪雨で川が氾濫した。 | Heavy rain caused the river to flood. | 豪雨被害 |  | 
+保全 | preservation | ほぜん | 自然を保全する。 | Preserve nature. | 環境保全 |  | 
+廃業 | closing a business | はいぎょう | 店が廃業した。 | The shop closed down. | 廃業届 |  | 
+維持費 | maintenance cost | いじひ | 維持費が高い。 | Maintenance costs are high. | 維持費負担 |  | 
+意思疎通 | communication | いしそつう | 意思疎通がうまくいかない。 | Communication isn’t smooth. | 意思疎通不足 |  | 
+画面越し | through a screen | がめんごし | 画面越しでは表情が読みにくい。 | Hard to read expressions through a screen. | 画面越しの会話 |  | 
+生息 | inhabit | せいそく | この地域に生息している。 | Inhabits this region. | 生息地 |  | 
+密猟者 | poacher | みつりょうしゃ | 密猟者が捕まった。 | A poacher was caught. | 密猟者対策 |  | 
+捕食 | predation | ほしょく | 捕食行動を観察する。 | Observe predatory behavior. | 捕食者 |  | 
+生態 | ecology | せいたい | 生態を調査する。 | Study the ecology. | 生態系 |  | 
+観測 | observation | かんそく | 気象を観測する。 | Observe weather. | 観測データ |  | 
+個体 | individual organism | こたい | 個体ごとに行動が違う。 | Each individual behaves differently. | 個体差 |  | 
+縄張り争い | territorial fight | なわばりあらそい | 縄張り争いが起きた。 | A territorial fight occurred. | 縄張り争い |  | 
+余儀 | alternative | よぎ | 余儀ない事情。 | Unavoidable circumstances. | 余儀なく |  | 
+余儀なくされる | be forced to | よぎなくされる | 移動を余儀なくされた。 | Was forced to relocate. | ～を余儀なくされる | Structure ⏎  ⏎ ～を余儀なくされる ⏎  ⏎ = to be forced to do ～ ⏎  ⏎ Examples: ⏎  ⏎ 中止を余儀なくされる。 ⏎ → to be forced to cancel ⏎ 変更を余儀なくされる。 ⏎ → to be forced to make changes ⏎ 撤退を余儀なくされる。 ⏎ → to be forced to withdraw ⏎ 閉店を余儀なくされる。 ⏎ → to be forced to close the store ⏎ Examples ⏎ 台風のため、試合の中止を余儀なくされた。 ⏎ → The match was forced to be canceled because of the typhoon. ⏎ 経営悪化により、工場の閉鎖を余儀なくされた。 ⏎ → Due to worsening business conditions, the factory was forced to close. ⏎ 多くの住民が避難を余儀なくされた。 ⏎ → Many residents were forced to evacuate. | 
+雨季 | rainy season | うき | 雨季に雨が多い。 | It rains a lot in the rainy season. | 雨季入り |  | 
+固有 | inherent, native | こゆう | 固有の文化。 | Native culture. | 固有種 |  | 
+謙虚に受け止める | accept humbly | けんきょにうけとめる | 批判を謙虚に受け止める。 | Accept criticism humbly. | 謙虚に受け止める姿勢 |  | 
+宮殿 | palace | きゅうでん | 宮殿を見学した。 | Visited the palace. | 王宮殿 |  | 
+窮屈に感じる | feel cramped | きゅうくつにかんじる | 部屋が窮屈に感じる。 | The room feels cramped. | 窮屈な空間 |  | 
+迅速な | rapid | じんそくな | 迅速な対応を求める。 | Request a rapid response. | 迅速対応 |  | 
+欠陥 | defect | けっかん | 製品に欠陥がある。 | The product has a defect. | 欠陥商品 |  | 
+比喩 | metaphor | ひゆ | 比喩を使って説明する。 | Explain using a metaphor. | 比喩表現 |  | 
+虚偽 | falsehood | きょぎ | 虚偽の申告。 | False report. | 虚偽情報 |  | 
+嗜好 | preference | しこう | 食の嗜好が違う。 | Food preferences differ. | 嗜好品 |  | 
+戸籍 | family registry | こせき | 戸籍を確認する。 | Check the family registry. | 戸籍謄本 |  | 
+称賛 | praise | しょうさん | 努力を称賛する。 | Praise the effort. | 称賛の声 |  | 
+値する | deserve | あたいする | 称賛に値する成果。 | Results worthy of praise. | ～に値する | Common patterns ⏎ ～に値する ⏎  ⏎ This is by far the most common pattern. ⏎  ⏎ 尊敬に値する ⏎ → worthy of respect ⏎ 注目に値する ⏎ → worth paying attention to ⏎ 評価に値する ⏎ → deserving of praise/evaluation ⏎ 検討に値する ⏎ → worth considering ⏎ 信頼に値する ⏎ → worthy of trust ⏎ Example sentences ⏎ 彼の努力は尊敬に値する。 ⏎ → His efforts are worthy of respect. ⏎ この研究は注目に値する。 ⏎ → This research is worth paying attention to. ⏎ その提案は検討に値する。 ⏎ → That proposal is worth considering. ⏎ 彼は信頼に値する人物だ。 ⏎ → He is a person worthy of trust. ⏎ Nuance ⏎  ⏎ 値する is fairly formal and is often used in: ⏎  ⏎ newspapers ⏎ essays ⏎ speeches ⏎ business writing ⏎ academic writing ⏎  ⏎ It sounds more sophisticated than simply saying 価値がある ("has value"). ⏎  ⏎ Compare: ⏎  ⏎ この本は読む価値がある。 ⏎ → This book is worth reading. ⏎ この本は一読に値する。 ⏎ → This book is worthy of a read. (more literary/formal) | 
+徹する | devote oneself | てっする | 役割に徹する。 | Devote oneself to a role. | 徹底 |  | 
+発する | emit, issue | はっする | 声を発する。 | Emit a voice. | 発言を発する |  | 
+称賛に値する | worthy of praise | しょうさんにあたいする | 彼の行動は称賛に値する。 | His actions deserve praise. | 称賛に値する行為 |  | 
+留める | keep, retain | とどめる | 記憶に留める。 | Keep in memory. | 心に留める |  | 
+避ける | avoid | さける | 危険を避ける。 | Avoid danger. | 回避 |  | 
+決する | decide | けっする | 試合が決した。 | The match was decided. | 決定 |  | 
+制する | control, dominate | せいする | 試合を制した。 | Dominated the match. | 制圧 | 制する（せいする） is a formal verb meaning: ⏎  ⏎ to control, to suppress, to overpower, to restrain, or to dominate. ⏎  ⏎ The exact meaning depends on what is being controlled. ⏎  ⏎ 1. To control or suppress (most common) ⏎ 感情を制する ⏎ → control one's emotions ⏎ 欲望を制する ⏎ → restrain one's desires ⏎ Example ⏎ 怒りを制することができなかった。 ⏎ → I couldn't control my anger. ⏎ 2. To overpower or defeat ⏎  ⏎ Often used in sports or battle. ⏎  ⏎ 強敵を制する ⏎ → defeat a strong opponent ⏎ 試合を制する ⏎ → win the match ⏎ Examples ⏎ 延長戦を制した。 ⏎ → They won the game in overtime. ⏎ 世界王者を制した。 ⏎ → He defeated the world champion. ⏎ 3. To dominate or take control ⏎ 市場を制する ⏎ → dominate the market ⏎ 天下を制する ⏎ → rule the nation (historical) ⏎ Examples ⏎ AIが市場を制する日も近い。 ⏎ → The day AI dominates the market may be near. ⏎ 天下を制した武将 ⏎ → the warlord who unified the country ⏎ Difference from similar words ⏎ Word	Meaning	Nuance ⏎ 制する	control, overpower	Formal, often complete control or victory ⏎ 支配する	rule, dominate	Rule over people or territory ⏎ 抑える（おさえる）	suppress, keep under control	Everyday, broad usage ⏎ 勝つ	win	Simply win, without the nuance of "bringing under control" ⏎ Compare ⏎ 感情を制する。 ⏎ → Control your emotions. ⏎ 感情を抑える。 ⏎ → Hold back your emotions. ⏎  ⏎ These are similar, but 制する sounds more formal and emphasizes mastery. ⏎  ⏎ Common expressions ⏎ 感情を制する ⏎ → control one's emotions ⏎ 自分を制する ⏎ → master oneself ⏎ 試合を制する ⏎ → win the match ⏎ 強敵を制する ⏎ → defeat a formidable opponent ⏎ 市場を制する ⏎ → dominate the market ⏎ 天下を制する ⏎ → rule the realm | 
+害する | harm | がいする | 健康を害する。 | Harm health. | 害作用 |  | 
+称する | call oneself | しょうする | 医者と称する男。 | A man who calls himself a doctor. | 自称 |  | 
+慎む | refrain | つつしむ | 発言を慎む。 | Refrain from speaking. | 自重自粛 |  | 
+狙った | targeted | ねらった | 狙った効果が出た。 | The intended effect appeared. | 狙った行動 |  | 
+負った | suffered | おった | 傷を負った。 | Suffered an injury. | 損害を負う |  | 
+戸惑った | confused | とまどった | 返答に戸惑った。 | Was confused how to answer. | 戸惑い |  | 
+庇う | protect, defend | かばう | 友人を庇う。 | Defend a friend. | 庇い立て |  | 
+浚う | dredge, scoop | さらう | 川底を浚う。 | Dredge the riverbed. | 浚渫 |  | 
+伺う | inquire, visit | うかがう | 様子を伺う。 | Observe the situation. | 伺い知る |  | 
+慕う | adore, long for | したう | 先輩を慕う。 | Admire a senior. | 恋慕 |  | 
+賄う | cover (cost), provide | まかなう | 収入で生活を賄う。 | Cover living expenses with income. | 賄い |  | 
+養う | nurture, support | やしなう | 家族を養う。 | Support a family. | 教養 | 養う（やしなう） is a versatile verb whose core meaning is: ⏎  ⏎ to nourish, to support, to provide for, or to cultivate. ⏎  ⏎ The common idea is: ⏎  ⏎ to help something or someone grow, develop, or be sustained over time. ⏎  ⏎ 1. To support someone financially ⏎  ⏎ This is one of the most common meanings. ⏎  ⏎ 家族を養う ⏎ → to support one's family ⏎ 妻子を養う ⏎ → to provide for one's wife and children ⏎ Example ⏎ 彼は家族を養うために毎日働いている。 ⏎ → He works every day to support his family. ⏎ 2. To nourish (animals, plants, the body) ⏎ 家畜を養う ⏎ → to raise livestock ⏎ 土地が作物を養う ⏎ → The land nourishes the crops. ⏎ 体を養う ⏎ → to nourish the body ⏎ 3. To cultivate an ability or quality (very common) ⏎  ⏎ This is probably the meaning you'll encounter most often in textbooks and articles. ⏎  ⏎ 想像力を養う ⏎ → cultivate one's imagination ⏎ 判断力を養う ⏎ → develop judgment ⏎ 忍耐力を養う ⏎ → build patience ⏎ コミュニケーション能力を養う ⏎ → develop communication skills ⏎ Examples ⏎ 読書は想像力を養う。 ⏎ → Reading cultivates the imagination. ⏎ 経験を通して判断力を養う。 ⏎ → Develop good judgment through experience. | 
+囲う | enclose | かこう | 庭を囲う。 | Enclose the yard. | 囲い込み |  | 
+拭う | wipe away | ぬぐう | 涙を拭う。 | Wipe away tears. | 汚れを拭う |  | 
+明かす | reveal | あかす | 秘密を明かす。 | Reveal a secret. | 打ち明ける |  | 
+果たす | accomplish | はたす | 役割を果たす。 | Fulfill a role. | 任務遂行 | 果たす（はたす） is a very important verb in Japanese. Its core meaning is: ⏎  ⏎ to fulfill, to carry out, to accomplish, or to play (a role). ⏎  ⏎ The underlying idea is: ⏎  ⏎ to bring something to completion or fulfill what is expected. ⏎  ⏎ 1. Fulfill a duty, responsibility, or promise (most common) ⏎  ⏎ This is the most frequent use. ⏎  ⏎ 約束を果たす ⏎ → to keep a promise ⏎ 責任を果たす ⏎ → to fulfill one's responsibilities ⏎ 義務を果たす ⏎ → to fulfill one's obligations ⏎ Examples ⏎ 約束を果たした。 ⏎ → I kept my promise. ⏎ 社会的責任を果たす。 ⏎ → Fulfill one's social responsibility. ⏎ 2. Play a role or function ⏎ 役割を果たす ⏎ → to play a role ⏎ 機能を果たす ⏎ → to serve a function ⏎ Examples ⏎ この薬は重要な役割を果たしている。 ⏎ → This medicine plays an important role. ⏎ AIは診断支援で大きな役割を果たす。 ⏎ → AI plays a major role in diagnostic support. ⏎  ⏎ This is extremely common in scientific papers and business writing. | 
+急かす | hurry someone | せかす | 子どもを急かす。 | Hurry the child. | 急かされる |  | 
+速める | speed up | はやめる | 歩調を速める。 | Speed up the pace. | 速度を速める |  | 
+凝らす | concentrate | こらす | 目を凝らす。 | Focus your eyes. | 工夫を凝らす |  | 
+仰ぐ | look up to | あおぐ | 師を仰ぐ。 | Look up to a mentor. | 尊敬を仰ぐ | 仰ぐ（あおぐ） is a very rich verb with several meanings, all connected by the original idea of "looking up." ⏎  ⏎ 1. To look up (literal meaning) ⏎ 空を仰ぐ。 ⏎ → Look up at the sky. ⏎ 星を仰ぐ。 ⏎ → Gaze up at the stars. ⏎  ⏎ This is the original meaning. ⏎  ⏎ 2. To look up to / respect (very common) ⏎  ⏎ Since you literally "look up" to someone, it came to mean: ⏎  ⏎ 師を仰ぐ。 ⏎ → Look up to a teacher; study under a teacher. ⏎ 彼は多くの人に仰がれている。 ⏎ → He is respected by many people. ⏎  ⏎ Examples: ⏎  ⏎ 尊敬する先生を師と仰ぐ。 ⏎ → Regard someone as your mentor. ⏎ 3. To seek or rely on (formal) ⏎  ⏎ You often see: ⏎  ⏎ 指導を仰ぐ。 ⏎ → Seek guidance. ⏎ 助言を仰ぐ。 ⏎ → Ask for advice. ⏎ 判断を仰ぐ。 ⏎ → Seek someone's judgment. ⏎  ⏎ Examples: ⏎  ⏎ 上司に助言を仰いだ。 ⏎ → I sought my supervisor's advice. ⏎ 専門家の意見を仰ぐ。 ⏎ → Seek the opinion of an expert. ⏎  ⏎ This is a very common business expression. ⏎  ⏎ 4. To depend on or receive a benefit from ⏎ 援助を仰ぐ。 ⏎ → Seek assistance. ⏎ 天の恵みを仰ぐ。 ⏎ → Depend on nature's blessings. ⏎  ⏎ This usage is more literary or formal. | 
+済ました | finished, completed | すました | 食事を済ました。 | Finished the meal. | 済ませる | 済ます（すます） is a very common verb that means: ⏎  ⏎ to finish, to get something over with, to settle, or to manage with. ⏎  ⏎ The core idea is: ⏎  ⏎ to bring something to a satisfactory conclusion so that it no longer needs attention. ⏎  ⏎ 1. To finish or get something done (most common) ⏎ 宿題を済ます。 ⏎ → Finish your homework. ⏎ 食事を済ませる。 ⏎ → Finish eating. ⏎ 支払いを済ませる。 ⏎ → Complete the payment. ⏎ Examples ⏎ 朝食はもう済ませました。 ⏎ → I've already had breakfast. ⏎ 手続きを済ませてください。 ⏎ → Please complete the procedure. ⏎ 2. To get something over with ⏎  ⏎ Often implies: ⏎  ⏎ "Let's do it quickly so we can move on." ⏎  ⏎ 面倒な仕事を先に済ませた。 ⏎ → I got the annoying work out of the way first. ⏎ 用事を済ませてから帰る。 ⏎ → I'll finish my errands before going home. ⏎ 3. To make do with / settle for ⏎  ⏎ Pattern: ⏎  ⏎ ～で済ます ⏎  ⏎ means: ⏎  ⏎ to make do with... ⏎ to settle for... ⏎  ⏎ Examples: ⏎  ⏎ 昼食はパンで済ませた。 ⏎ → I just had bread for lunch. ⏎ 今日は電話で済ませよう。 ⏎ → Let's just handle it over the phone. ⏎ インスタントラーメンで済ませた。 ⏎ → I just made do with instant noodles. ⏎ 4. To let something pass without a bigger consequence ⏎  ⏎ Pattern: ⏎  ⏎ ～で済む (intransitive) ⏎  ⏎ Examples: ⏎  ⏎ 軽傷で済んだ。 ⏎ → It ended with only minor injuries. ⏎ 注意だけで済んだ。 ⏎ → I got off with just a warning. ⏎ 笑い話では済まない。 ⏎ → It's not something you can just laugh off. ⏎  ⏎ Here, 済む means "to end with..." | 
+滅した | destroyed | めっした | 種が滅した。 | The species died out. | 絶滅 |  | 
+催した | held (event) | もよおした | 会を催した。 | Held an event. | 催し物 |  | 
